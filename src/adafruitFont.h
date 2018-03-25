@@ -23,7 +23,7 @@
 #ifndef DEVDUINO_ADAFRUIT_FONT_H
 #define DEVDUINO_ADAFRUIT_FONT_H
 
-#include <arduino.h>
+#include <Arduino.h>
 
 #include "font.h"
 
